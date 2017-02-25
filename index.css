@@ -7,7 +7,7 @@ h2, h3, h5, p{
 }
 
 body{
-  background-color: black; 
+  background-color: #000000; 
 }
 
 /*main container with max-width you gave me but the standard is 960px frame and center*/
@@ -85,8 +85,8 @@ h2 {
 }
 
 #header{
-  max-width: 95%;
-  margin: 2% auto; 
+  max-width: 714px;
+  margin: 0% auto; 
 }
 
 #p_header{
